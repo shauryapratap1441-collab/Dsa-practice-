@@ -7,7 +7,7 @@ Ongoing collection of my LeetCode solutions as I work through Data Structures an
 I'm currently prepping for technical interviews (targeting the Microsoft Explore internship) by working through a structured DSA curriculum. This repo tracks that progress — every accepted submission gets pushed here automatically.
 
 - **Language:** Java
-- **Problems solved:** 80+
+- **Problems solved:** 100+
 - **Status:** actively updated
 
 ## Topics covered
@@ -19,8 +19,8 @@ I'm currently prepping for technical interviews (targeting the Microsoft Explore
 - [x] Two Pointers
 - [x] Sliding Window
 - [x] Hashing
-- [ ] Linked Lists *(in progress)*
-- [ ] Stacks & Queues
+- [x] Linked Lists
+- [ ] Stacks & Queues *(in progress)*
 - [ ] Binary Trees / BSTs
 - [ ] Graph Basics
 
