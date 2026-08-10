@@ -52,6 +52,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,8 +82,13 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
