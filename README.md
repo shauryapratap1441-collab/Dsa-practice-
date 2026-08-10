@@ -44,3 +44,15 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 
 ---
 *Solutions synced automatically — folder structure and file naming are handled by LeetHub.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
