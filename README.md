@@ -55,6 +55,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
@@ -63,6 +64,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
@@ -86,6 +88,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0020-valid-parentheses) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,4 +131,8 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting
+|  |
+| ------- |
+| [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 <!---LeetCode Topics End-->
