@@ -57,6 +57,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
@@ -105,6 +106,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Greedy
 |  |
@@ -130,6 +132,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
 ## Heap (Priority Queue)
 |  |
