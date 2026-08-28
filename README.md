@@ -7,7 +7,7 @@ Ongoing collection of my LeetCode solutions as I work through Data Structures an
 I'm currently prepping for technical interviews (targeting the Microsoft Explore internship) by working through a structured DSA curriculum. This repo tracks that progress — every accepted submission gets pushed here automatically.
 
 - **Language:** Java
-- **Problems solved:** 130+
+- **Problems solved:** 140+
 - **Status:** actively updated
 
 ## Topics covered
