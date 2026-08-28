@@ -57,6 +57,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -175,4 +176,8 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
