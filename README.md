@@ -94,6 +94,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
@@ -114,6 +115,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2315-count-asterisks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2315-count-asterisks) |
@@ -158,6 +160,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
