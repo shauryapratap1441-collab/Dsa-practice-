@@ -53,6 +53,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
@@ -194,6 +195,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
