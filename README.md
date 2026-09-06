@@ -71,6 +71,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
@@ -87,6 +88,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
