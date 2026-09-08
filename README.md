@@ -104,6 +104,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
