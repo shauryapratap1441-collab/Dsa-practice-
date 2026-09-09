@@ -102,6 +102,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
+| [0390-elimination-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -117,6 +118,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0390-elimination-game) |
 ## String
 |  |
 | ------- |
