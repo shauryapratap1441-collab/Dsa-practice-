@@ -69,6 +69,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2293-min-max-game) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -109,6 +110,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -184,6 +186,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2293-min-max-game) |
 | [3959-check-good-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3959-check-good-integer) |
 ## Heap (Priority Queue)
@@ -225,4 +228,12 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0004-median-of-two-sorted-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
