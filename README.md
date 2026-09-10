@@ -141,6 +141,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2315-count-asterisks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2315-count-asterisks) |
+| [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2293-min-max-game) |
+| [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
 | [3701-compute-alternating-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3701-compute-alternating-sum) |
 | [3959-check-good-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3959-check-good-integer) |
 ## Heap (Priority Queue)
