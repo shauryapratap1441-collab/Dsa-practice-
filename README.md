@@ -64,6 +64,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -167,6 +168,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -180,6 +182,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -227,6 +230,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
 ## Pigeonhole Principle
 |  |
 | ------- |
