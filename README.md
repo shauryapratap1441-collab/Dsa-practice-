@@ -70,6 +70,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2293-min-max-game) |
@@ -116,6 +117,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2544-alternating-digit-sum) |
@@ -171,6 +173,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -185,6 +188,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1200-minimum-absolute-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1200-minimum-absolute-difference) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
