@@ -117,6 +117,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2119-a-number-after-a-double-reversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
