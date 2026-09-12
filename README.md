@@ -63,6 +63,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1200-minimum-absolute-difference) |
@@ -216,6 +217,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
@@ -279,4 +281,5 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
