@@ -209,6 +209,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Bracket Sequences
 |  |
@@ -284,4 +285,16 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0867-transpose-matrix) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
