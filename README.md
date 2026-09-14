@@ -94,6 +94,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +112,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -168,6 +170,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
+| [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0917-reverse-only-letters) |
@@ -305,4 +308,8 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0094-binary-tree-inorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
