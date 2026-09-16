@@ -157,6 +157,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -216,6 +217,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0094-binary-tree-inorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Bracket Sequences
 |  |
