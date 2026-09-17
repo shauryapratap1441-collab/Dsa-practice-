@@ -98,6 +98,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -157,6 +158,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -200,6 +202,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
@@ -247,6 +250,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
