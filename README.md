@@ -96,6 +96,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
@@ -124,6 +125,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0172-factorial-trailing-zeroes) |
 | [0390-elimination-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0390-elimination-game) |
@@ -153,6 +155,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
