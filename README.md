@@ -88,6 +88,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -144,6 +145,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
