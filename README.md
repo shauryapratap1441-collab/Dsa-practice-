@@ -121,6 +121,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0237-delete-node-in-a-linked-list) |
