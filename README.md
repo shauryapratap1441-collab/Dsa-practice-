@@ -56,6 +56,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
@@ -99,6 +100,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0001-two-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
@@ -162,6 +164,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
@@ -211,6 +214,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
