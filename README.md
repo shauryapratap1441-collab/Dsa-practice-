@@ -61,6 +61,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0495-teemo-attacking](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -253,6 +254,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0495-teemo-attacking) |
 | [0867-transpose-matrix](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
