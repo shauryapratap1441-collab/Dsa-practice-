@@ -73,6 +73,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1051-height-checker](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1539-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -362,4 +363,8 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0102-binary-tree-level-order-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
