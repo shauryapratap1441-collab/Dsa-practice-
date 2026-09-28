@@ -182,6 +182,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1768-merge-strings-alternately](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -252,12 +253,14 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
