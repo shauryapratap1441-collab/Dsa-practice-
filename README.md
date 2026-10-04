@@ -108,6 +108,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
@@ -176,6 +177,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
@@ -196,6 +198,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -285,6 +288,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
@@ -399,4 +403,20 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1480-running-sum-of-1d-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
