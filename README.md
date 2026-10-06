@@ -355,6 +355,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -366,6 +367,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -380,6 +382,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -403,6 +406,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
