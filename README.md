@@ -57,6 +57,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
@@ -232,6 +233,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -435,4 +437,8 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0572-subtree-of-another-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
