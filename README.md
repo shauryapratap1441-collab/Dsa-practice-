@@ -84,6 +84,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -193,6 +194,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2109-adding-spaces-to-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
@@ -214,6 +216,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0977-squares-of-a-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Greedy
@@ -278,6 +281,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0867-transpose-matrix](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
