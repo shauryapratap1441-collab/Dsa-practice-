@@ -191,6 +191,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -269,6 +270,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0739-daily-temperatures](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 ## Bracket Sequences
@@ -460,4 +462,8 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3227-vowels-game-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
