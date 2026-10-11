@@ -159,6 +159,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2544-alternating-digit-sum) |
+| [3227-vowels-game-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3870-count-commas-in-range) |
@@ -198,6 +199,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
+| [3227-vowels-game-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3271-hash-divided-string) |
 ## Sliding Window
 |  |
@@ -450,4 +452,12 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
