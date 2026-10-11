@@ -9,8 +9,9 @@ class Solution {
             char ch=s.charAt(i);
             sb.append(ch);
             if(!set.contains(sb.toString())){
-            set.add(sb.toString());   
-            list.add(sb.toString());
+            String S=sb.toString();
+            set.add(S);   
+            list.add(S);
             sb.setLength(0);
             }
         }
