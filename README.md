@@ -198,6 +198,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
+| [3271-hash-divided-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3271-hash-divided-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +288,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2221-find-triangular-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2293-min-max-game) |
 | [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
+| [3271-hash-divided-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3271-hash-divided-string) |
 | [3701-compute-alternating-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3701-compute-alternating-sum) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 | [3959-check-good-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3959-check-good-integer) |
