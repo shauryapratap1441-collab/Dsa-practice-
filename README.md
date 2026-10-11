@@ -128,6 +128,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3597-partition-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3597-partition-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -202,6 +203,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
 | [3227-vowels-game-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3271-hash-divided-string) |
+| [3597-partition-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3597-partition-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2293-min-max-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2293-min-max-game) |
 | [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
 | [3271-hash-divided-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3271-hash-divided-string) |
+| [3597-partition-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3597-partition-string) |
 | [3701-compute-alternating-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3701-compute-alternating-sum) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 | [3959-check-good-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3959-check-good-integer) |
@@ -466,4 +469,8 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Trie
+|  |
+| ------- |
+| [3597-partition-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3597-partition-string) |
 <!---LeetCode Topics End-->
