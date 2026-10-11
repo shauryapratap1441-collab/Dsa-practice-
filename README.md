@@ -59,6 +59,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0260-single-number-iii) |
@@ -246,6 +247,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
+| [0164-maximum-gap](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -332,6 +334,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0164-maximum-gap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
@@ -475,4 +478,12 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [3597-partition-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3597-partition-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
