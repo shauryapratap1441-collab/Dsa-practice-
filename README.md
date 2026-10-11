@@ -147,6 +147,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0172-factorial-trailing-zeroes) |
+| [0343-integer-break](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0728-self-dividing-numbers) |
@@ -468,6 +469,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0343-integer-break) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Trie
 |  |
