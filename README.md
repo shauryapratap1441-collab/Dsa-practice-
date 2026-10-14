@@ -383,6 +383,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
@@ -399,6 +400,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
@@ -418,6 +420,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
@@ -445,6 +448,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Prefix Sum
