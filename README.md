@@ -66,6 +66,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0495-teemo-attacking](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0495-teemo-attacking) |
+| [0560-subarray-sum-equals-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -119,6 +120,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -456,6 +458,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1480-running-sum-of-1d-array) |
 ## Rolling Hash
 |  |
