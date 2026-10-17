@@ -99,6 +99,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2951-find-the-peaks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2951-find-the-peaks) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3701-compute-alternating-sum) |
@@ -332,6 +333,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting Sort
 |  |
