@@ -194,6 +194,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0383-ransom-note](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
+| [0606-construct-string-from-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0606-construct-string-from-binary-tree) |
 | [0917-reverse-only-letters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -388,6 +389,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0513-find-bottom-left-tree-value](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -405,6 +407,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0513-find-bottom-left-tree-value](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -425,6 +428,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0513-find-bottom-left-tree-value](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
