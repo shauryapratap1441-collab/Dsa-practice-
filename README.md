@@ -59,6 +59,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
@@ -349,6 +350,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
