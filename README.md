@@ -400,6 +400,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0606-construct-string-from-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -419,6 +420,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0606-construct-string-from-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -441,6 +443,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0606-construct-string-from-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -470,6 +473,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0965-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
