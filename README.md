@@ -87,6 +87,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -270,6 +271,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -357,6 +359,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0162-find-peak-element](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
