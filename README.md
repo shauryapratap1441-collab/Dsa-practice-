@@ -110,6 +110,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3959-check-good-integer) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Recursion
 |  |
 | ------- |
