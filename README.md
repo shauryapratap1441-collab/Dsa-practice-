@@ -54,6 +54,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0004-median-of-two-sorted-arrays](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
@@ -229,6 +230,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | ------- |
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0345-reverse-vowels-of-a-string) |
