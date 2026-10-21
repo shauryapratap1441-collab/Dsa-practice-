@@ -10,13 +10,12 @@ class Solution {
         return true;
     }
     public boolean helper(String S,int left,int right){
-        int count=0;
         while(left<right){
            if(S.charAt(left)!=S.charAt(right))
-           count++;
+           return false;
            left++;
            right--;
         }
-        return count==0;
+        return true;
     }
 }
