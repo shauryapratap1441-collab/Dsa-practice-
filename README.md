@@ -104,6 +104,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2951-find-the-peaks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2951-find-the-peaks) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
