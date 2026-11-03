@@ -111,6 +111,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [3701-compute-alternating-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
@@ -182,6 +183,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
