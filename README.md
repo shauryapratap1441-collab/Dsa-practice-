@@ -58,6 +58,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0056-merge-intervals) |
@@ -241,6 +242,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0011-container-with-most-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -298,6 +300,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -476,6 +479,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0739-daily-temperatures) |
 ## Bubble Sort
 |  |
@@ -542,6 +546,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0042-trapping-rain-water) |
 | [0343-integer-break](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0343-integer-break) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Trie
