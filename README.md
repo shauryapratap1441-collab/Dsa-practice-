@@ -153,6 +153,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
@@ -245,6 +246,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0016-3sum-closest](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0345-reverse-vowels-of-a-string) |
