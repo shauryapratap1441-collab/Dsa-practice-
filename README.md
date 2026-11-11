@@ -115,6 +115,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3819-rotate-non-negative-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3895-count-digit-appearances) |
@@ -340,6 +341,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [3271-hash-divided-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3271-hash-divided-string) |
 | [3597-partition-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3597-partition-string) |
 | [3701-compute-alternating-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3701-compute-alternating-sum) |
+| [3819-rotate-non-negative-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3819-rotate-non-negative-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3834-merge-adjacent-equal-elements) |
 | [3959-check-good-integer](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/3959-check-good-integer) |
 ## Heap (Priority Queue)
