@@ -67,6 +67,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0162-find-peak-element](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0260-single-number-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -168,6 +169,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0012-integer-to-roman](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0412-fizz-buzz) |
@@ -249,6 +251,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0061-rotate-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0917-reverse-only-letters) |
