@@ -230,6 +230,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2810-faulty-keyboard) |
