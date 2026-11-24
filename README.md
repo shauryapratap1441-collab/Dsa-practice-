@@ -180,6 +180,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1688-count-of-matches-in-tournament) |
+| [1903-largest-odd-number-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -227,6 +228,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2109-adding-spaces-to-a-string) |
@@ -274,6 +276,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 | [0680-valid-palindrome-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0680-valid-palindrome-ii) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
