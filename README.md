@@ -155,6 +155,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0092-reverse-linked-list-ii) |
@@ -202,6 +203,7 @@ Beyond interview prep, this is meant to be a record I can look back on — to se
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/shauryapratap1441-collab/Dsa-practice-/tree/master/0390-elimination-game) |
 ## String
